@@ -1,7 +1,7 @@
 ![photo](30d4538.jpg)
 
 
-Freelance DevOps and software enthusiast.
+Freelance DevOps (docker, packer, terraform, rancher,kubernates, CI/CD, nexus) and software enthusiast.
 
 Kazan, Tatarstan Republic, Russian Federation.
 
@@ -12,6 +12,8 @@ Fighting  with different Linux distributions since 1997 (after OS/2 was dropped 
 Ported sone software to QNX 6.3.2, NC Developer since 2008
 
 Fan of [Plan 9](http://plan9.bell-labs.com) since it was opensourced.
+
+Community member of Docker and OpenStack.
 
 Programming languages: shell, C, Limbo, Go-lang
 
