@@ -22,6 +22,7 @@ Programming languages: shell, C, Limbo, Go-lang
 Links
 
 [9P.io](http://9p.io)
-[cat-v](http://cat-v.org)
-[9front](http://9front.org)
 
+[cat-v](http://cat-v.org)
+
+[9front](http://9front.org)
