@@ -3,7 +3,7 @@
 
 Freelance DevOps (docker, packer, terraform, rancher,kubernates, CI/CD, nexus) and software enthusiast.
 
-Kazan, Tatarstan Republic, Russian Federation.
+Minsk, Republic of Belarus.
 
 Installing and solving issues with [BSD](http://www.bsd.org) since 1995
 
