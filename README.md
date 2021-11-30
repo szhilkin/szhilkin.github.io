@@ -29,3 +29,5 @@ Links
 [cat-v](http://cat-v.org)
 
 [9front](http://9front.org)
+
+[History of FidoNet network in Syzran](http://fido7.syzran.ru/)
