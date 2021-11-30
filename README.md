@@ -3,7 +3,7 @@
 
 Freelance DevOps (docker, packer, terraform, rancher,kubernates, CI/CD, nexus) and software enthusiast.
 
-Minsk, Republic of Belarus.
+[Syzran](https://yandex.ru/maps/-/CBFu6IGLGD), Russian Federation.
 
 Installing and solving issues with [BSD](http://www.bsd.org) since 1995
 
