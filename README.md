@@ -30,4 +30,4 @@ Links
 
 [9front](http://9front.org)
 
-[History of FidoNet network in Syzran](http://fido7.syzran.ru/)
+[History of FidoNet network in Syzran](http://fido7.syzran.ru/) Site gone away [WebArchive copy](http://web.archive.org/web/20220330043154/http://www.fido7.syzran.ru/)
