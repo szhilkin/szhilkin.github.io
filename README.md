@@ -11,7 +11,7 @@ Fighting  with different Linux distributions since 1997 (after OS/2 was dropped 
 
 Ported some software to QNX 6.3.2, NC Developer since 2008
 
-Fan of [Plan 9](http://plan9.bell-labs.com) since it was opensourced.
+Fan of [Plan 9](http://p9f.org) since it was opensourced.
 
 Community member of Docker and OpenStack.
 
