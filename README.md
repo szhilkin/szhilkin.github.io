@@ -23,11 +23,8 @@ Programming languages: shell, C, Limbo, Go-lang
 [Keybase](https://szhilkin.keybase.pub/)
 
 Links
-
+[p9f.org](http://p9f.org)
 [9P.io](http://9p.io)
-
 [cat-v](http://cat-v.org)
-
 [9front](http://9front.org)
-
 [History of FidoNet network in Syzran](http://fido7.syzran.ru/) Site gone away [WebArchive copy](http://web.archive.org/web/20220330043154/http://www.fido7.syzran.ru/)
